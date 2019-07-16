@@ -1,0 +1,16 @@
+{
+  "name": "searchflights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchFlights.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "node-fetch": "^2.6.0"
+  },
+  "dependencies": {}
+}
